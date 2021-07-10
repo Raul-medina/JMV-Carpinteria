@@ -30,7 +30,7 @@ h1 {
 }
 
 p {
-    margin-bottom: 1.6em;
+    margin-bottom: 1.5em;
 }
 
 
@@ -321,9 +321,9 @@ footer {
 
 .heading-summary {
     color: #000000;
-    font-size: 15px;
+    font-size: 25px;
     max-width: 600px;
-    margin: 0 auto 60px auto;
+    margin: 0 auto 30px auto;
 }
 
 .contact-us form {
@@ -375,6 +375,7 @@ footer {
 /* Footer */
 
 footer {
+    margin-top: 20px;
     color: #fff;
     background-color: #2e2f31;
 }
